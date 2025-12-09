@@ -11,7 +11,7 @@
             justify-content: center;
             align-items: center;
             height: 100vh;
-            color: white;
+            color: white;  
             margin: 0;
         }
         .result-box {
@@ -69,4 +69,5 @@
         <a href="login.html">Kembali</a>
     </div>
 </body>
+
 </html>
